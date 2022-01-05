@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<link rel="stylesheet" href="css1.css">
+
+</head>
+<body>
+	
+	<div class="container">
+		<div class="header">
+			<h1 class="judul">Apriansyah Personal Blog!!</h1>
+			<ul>
+				<li><a href="login.php">Home</a></li>
+				<li><a href="part2.html">About Me</a></li>
+				<li><a href="part1.html">Galery</a></li>
+			</ul>
+		</div>
+		<div class="poto"></div>
+		<div class="content">
+			<h2>A Little About Me</h2>
+			<p class="penulis">Dibuat oleh<a href="#">Apriansyah</a>pada 1 Desember 2021</p>
+			<hr>
+		<p>Hello, Assalamualaikum warahmatullah wabarakatuh, namo budhaya, shalom, om swastiastu and greetings to all of us. Introducing my name is <span>Apriansyah</span>, I am now 21 years old, I was born on August 5, 2000. My height is 165 cm and my weight is only 45 kg. I am the third of four children. And I am Muslim. I come from a remote village in Riau Province, namely Concong Luar, Concong Luar itself is a coastal village where 80% of the livelihood is fishing.
+		I am now a student at a State University in the Riau Archipelago, Raja Ali Haji Maritime University. I study at the Faculty of Engineering, Electrical Engineering study program. I am also a member of a Robot community “Senggarang Robotic Club”. For hobby, I like table tennis and chess, but I'm not an expert player, my favorite food is fried noodles, my favorite drink is anything that is sweet, haha. I love watching football matches, my proud club is FC BARCELONA and my favorite football player is Lionel Messi. I also like playing video games and reading comics. For me, being able to read comics in peace is the simplest happiness and the thing I like the most is waiting for the comic to update.
+		I created this blog to fulfill my final assignment for web and multimedia lectures at Widya Mandala University, Surabaya</p>
+
+
+<a href="logout.php">log out</a>
+	</div>
+	<div class="footer">
+		<p class="copy">Copyright 2021.Apriansyah.</p>
+	</div>
+</body>
+</html>
