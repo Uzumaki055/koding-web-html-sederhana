@@ -1,0 +1,26 @@
+<html>
+<head>
+	<title> Web Apriansyah </title>
+	<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+	<div class="container">
+		<h1> FIND ME!! </h1>
+	<img class="gambar1" src="apri/apri.png">
+<p class="p1"> Welcome to my blog guys!!</p>
+<br>
+
+<a href="https://www.facebook.com/apri.sornarin22">
+	<img src="apri/logo1.png" alt="Facebook saya" style="width:120px ; height:120px">
+</a>
+<a href="https://www.facebook.com/apri.sornarin22">
+	<img src="apri/logo2.png" alt="Instagram saya" style="width:125px ; height:125px">
+</a>
+<p class="p2">Contact Me On FACEBOOK and INSTAGRAM</p>
+
+
+</body>
+<span><a href="part2.html">Back to Home</a></span>
+</div>
+</html>
